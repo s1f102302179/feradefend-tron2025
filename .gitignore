@@ -1,0 +1,11 @@
+﻿# Build outputs
+[Bb]uild*/ Debug*/ Release*/ out*/ bin*/ obj*/
+
+# IDE
+.settings/ .metadata/ .idea/ .vscode/
+*.launch
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db

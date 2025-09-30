@@ -1,0 +1,6 @@
+[submodule "external/stm32n6570"]
+	path = external/stm32n6570
+	url = https://github.com/s1f102300638/stm32n6570
+[submodule "external/STM32N6570-DK"]
+	path = external/STM32N6570-DK
+	url = https://github.com/s1f102302179/STM32N6570-DK-
